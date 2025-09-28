@@ -16,4 +16,4 @@ function coffee(...drinks) {
   return bill;
 }
 
-alert(coffee("latte", "tea"));
+alert(coffee("latte", "tea", "cocoa"));
